@@ -22,14 +22,15 @@
 {
     "name": "MuK Backend Theme", 
     "summary": "Odoo Community Backend Theme",
-    "version": "12.0.2.0.4",
+    "version": "13.0",
     "category": "Themes/Backend", 
     "license": "LGPL-3", 
-    "author": "MuK IT",
+    "author": "Gabriel Pabon, MuK IT",
     "website": "http://www.mukit.at",
     'live_test_url': 'https://mukit.at/r/SgN',
     "contributors": [
         "Mathias Markl <mathias.markl@mukit.at>",
+        "Gabriel Pabon <gabriel.pabon@arpadine.com>",
     ],
     "depends": [
         "muk_web_utils",
